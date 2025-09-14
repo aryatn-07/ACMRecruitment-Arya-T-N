@@ -1,0 +1,13 @@
+2, 6, 12, 20 _ _
+
+Let's take the common difference
+
+6-2 = 4
+12-6 = 6
+20-12 = 8
+
+The common difference is incremented by 2 each time 
+So the next term would be 20 + 10 = 30
+Then the next term would be 30 + 12 = 42
+
+The next two terms are 30 and 42
