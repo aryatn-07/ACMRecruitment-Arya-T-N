@@ -1,0 +1,14 @@
+Solved puzzle
+
+1 2 3 4
+4 3 2 1
+3 4 1 2 
+2 1 4 3
+
+Step 1 - The first 3 columns are already occupied with 3. So the only place remaining for 3 in the  last column is the bottom-last cell.
+
+Step 2 - The only place remaining for 1 in the first 2x2 square is the first cell because the other cells are already overlapped with a 1 in the second row and the fourth row.
+
+Step 3 - Now that we have three 1's, it is obvious that the fourth 1 will come in the third cell of the third row 
+
+Step 4 - As we have all the 1's and 3's now, I randomly assigned 2 and 4 in the first 2x2 cell and went with the flow in the other cells without overlapping
