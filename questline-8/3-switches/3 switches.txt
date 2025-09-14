@@ -1,0 +1,8 @@
+1. Turn on the first switch and leave it on for 5-10 minutes so that the bulb would heat up. 
+2. After that, turn off the first switch and immediately turn on the second switch.
+
+Now go into the room, there will be three chances:
+
+- If the bulb is lit, Switch 2 controls the bulb.
+- If the bulb is off but warm, Switch 1 controls the bulb.
+- If the bulb is off and cool, Switch 3 controls the bulb.
