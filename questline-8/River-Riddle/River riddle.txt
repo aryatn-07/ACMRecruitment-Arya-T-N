@@ -1,0 +1,24 @@
+1. Farmer takes goat to the other shore.
+   Left: Wolf, Cabbage
+   Right: Farmer, goat
+
+2. Farmer returns alone.
+   Left: Farmer, Wolf, Cabbage
+   Right: Goat
+
+3. Farmer takes Wolf across and brings the goat back.
+   Left: Farmer, Goat, Cabbage
+   Right: Wolf
+
+4. Farmer takes the Cabbage across.
+   Left: Goat
+   Right: Farmer, Wolf, Cabbage
+
+5. Farmer returns alone.
+   Left: Farmer, Goat
+   Right: Wolf,  Cabbage
+
+6. Farmer takes the goat across.
+   Left: None
+   Right: Farmer, Goat, Wolf, Cabbage
+
