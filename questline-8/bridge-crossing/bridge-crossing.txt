@@ -1,0 +1,7 @@
+1 minute and 2 minute cross together first ( Time = 2 minutes)
+1 minute returns with the torch ( Time = 1 minute)
+7 minutes and 10 minutes cross together ( Time = 10 minutes)
+2 minutes returns (Time = 2 minutes)
+1 and 2 cross together(Time = 2 minutes)
+
+Total time = 2+1+10+2+2 = 17 minutes
