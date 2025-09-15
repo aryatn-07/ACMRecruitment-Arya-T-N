@@ -1,0 +1,7 @@
+A(1 minute) and B(2 minutes) cross together first ( Time = 2 minutes)
+A(1 minute) returns with the torch ( Time = 1 minute)
+C(7 minutes) and D(10 minutes) cross together ( Time = 10 minutes)
+B(2 minutes) returns (Time = 2 minutes)
+A(1 minute) and B(2 minutes) cross together(Time = 2 minutes)
+
+Total time = 2+1+10+2+2 = 17 minutes
